@@ -1,4 +1,6 @@
 # School_District_Analysis
+Analyze data on student funding and students standardized test scores for making decisions regarding the school budgets and priorities.
+
 # Overview of the school district analysis :
 Maria, a chief data scientist for a city school district is responsible for analyzing information from a variety of sources and in variety of formats. Tasked with preparing all standardized test data for analysis, reporting and presentation to provide insights about performance trends and patterns. For informed decisions and strategic discussions at the school and district level. Hence we are helping Maria analyze data on student funding and students standardized test scores. 
 We have been given access to every student’s math and reading scores as well as various information on the schools they attend. Our task is to aggregate the date and showcase trends in school performance. This analysis will assist school board and superintendent in making decisions regarding the school budgets and priorities. 
